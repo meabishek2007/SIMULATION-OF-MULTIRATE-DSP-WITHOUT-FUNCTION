@@ -10,6 +10,7 @@ PC installed with SCILAB.
 ## PROGRAM : 
 
 //  SPEECH RECOGNITION USING SCILAB\
+
 ~~~
 clc;
 close;
@@ -46,12 +47,15 @@ plot2d3(upsampling_x);
 title('Upsampled Signal by a factor of L');
 ~~~
 
-## OUTPUT: 
+## OUTPUT:
+
 <img width="1918" height="1193" alt="image" src="https://github.com/user-attachments/assets/130cf141-1c57-422d-8dfc-c54d1834f805" />
+
 <img width="1918" height="1197" alt="image" src="https://github.com/user-attachments/assets/585077fa-4673-4db7-a4ed-1f48cfe18251" />
 
 
 
 ## RESULT: 
+
 Thus the decimation process by a factor M and interpolation process by a factor L using 
 SCILAB was implemented. 
